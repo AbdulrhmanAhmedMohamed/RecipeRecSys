@@ -1,12 +1,8 @@
-# untitled1
+# Recipe Recommendation System
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+.py files should be run on oycharm make sure you have all libraries installed before running the back-end. Use android studio to run the main app , change thte Ip port to theyour own, you can find that by typing ipconfig in the cmd and copying the IPV4 address into the main , imagePage , and the audio Page . The back-end server is a test server not into in procustion mode .
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
