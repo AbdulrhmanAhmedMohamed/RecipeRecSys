@@ -4,6 +4,8 @@ A new Flutter project.
 
 .py files should be run on oycharm make sure you have all libraries installed before running the back-end. Use android studio to run the main app , change thte Ip port to theyour own, you can find that by typing ipconfig in the cmd and copying the IPV4 address into the main , imagePage , and the audio Page . The back-end server is a test server not into in procustion mode .
 
+.jpeg files are images for the ouput after building the app and using the engine to predict a recipe.
+
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
